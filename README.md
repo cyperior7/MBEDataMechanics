@@ -8,9 +8,9 @@
 
  ## Running the Code (and using the API)
  There are several steps in order to get the datasets loaded into mongodb and then to have access to the web service where
- the API is supplied. First, start your mongodb server. Next, cd into the root of this project directory and run the following command:
+ the API is supplied. First, start your mongodb server. Next, cd into the directory where this repository lives and run the following command:
  
- ```python execute.py ashwini_gdukuray_justini_utdesai```
+ ```python execute.py MBEDataMechanics```
  
  Next, on a separate terminal (you should essentially have 3 open now!) cd into the folder 'ashwini_gdukuray_justini_utdesai'
  and then cd into the folder WebService. Here, run the following command:
